@@ -1,2 +1,2 @@
 # ecommerce
-React-Node based ecommerce website
+React-Node based ecommerce website.
