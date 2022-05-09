@@ -1,4 +1,4 @@
-import { Row, Col, Input, Typography, Button } from 'antd';
+import { Row, Col } from 'antd';
 import Address from './address'
 
 export default function Footer() {
